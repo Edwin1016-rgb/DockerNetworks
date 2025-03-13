@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  neo4j:
+    image: neo4j:latest
+    environment: 
+      - NEO4J_AUTH=${NEO4J_USER}/${NEO4J_PASSWORD} 
+    ports:
+      - "7474:7474"  # Puerto para Neo4j Browser
+      - "7687:7687"  # Puerto para Bolt (conexión desde la aplicación)
+    volumes:
+      - neo4j_data:/data  # Volumen para persistir los datos de Neo4j
+      - ./neo4j-import:/var/lib/neo4j/import  # Mapea una carpeta local a /var/lib/neo4j/import
+    networks:
+      - app_network
+    restart: always
+
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    environment:
+      POSTGRES_USER: ${PG_USER}
+      POSTGRES_PASSWORD: ${PG_PASSWORD}
+      POSTGRES_DB: ${PG_DATABASE}
+    ports:
+      - "5432:5432"  # Puerto para PostgreSQL
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Volumen para persistir los datos de PostgreSQL
+    networks:
+      - app_network
+    restart: always
+
+  backend:
+    build: ./backend
+    container_name: express_backend
+    restart: always
+    depends_on:
+      - neo4j
+      - postgres
+    env_file:
+      - .env
+    networks:
+      - app_network
+    ports:
+      - "${EXPRESS_PORT}:3000"
+
+volumes:
+  neo4j_data:  # Volumen para persistir los datos de Neo4j
+  postgres_data:  # Volumen para persistir los datos de PostgreSQL
+
+networks:
+  app_network:
+    driver: bridge

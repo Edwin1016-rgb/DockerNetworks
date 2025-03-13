@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  neo4j:
+    image: neo4j:latest
+    environment: 
+      - NEO4J_AUTH=${NEO4J_USER}/${NEO4J_PASSWORD} 
+    ports:
+      - "6969:7474"
+      - "4040:7687"
+    volumes:
+      - neo4j_data:/data
+    networks:
+      - app_network
+    restart: always
+
+  backend:
+    build: ./backend
+    container_name: express_backend
+    restart: always
+    depends_on:
+      - neo4j
+    env_file:
+      - .env
+    networks:
+      - app_network
+    ports:
+      - "${EXPRESS_PORT}:3000"
+
+volumes:
+  neo4j_data:
+
+networks:
+  app_network:
+    driver: bridge

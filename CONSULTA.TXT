@@ -1,0 +1,8 @@
+LOAD CSV WITH HEADERS FROM 'file:///Dataset_A-Peliculas.csv' AS row
+            CREATE (p:Pelicula {
+                id: row.id,
+                nombre: row.nombre,
+                calificacion: toFloat(row.calificacion),
+                año_lanzamiento: toInteger(row.año_lanzamiento),
+                genero: row.genero
+            })
