@@ -35,8 +35,7 @@ const createTableIfNotExists = async () => {
                 nombre_formateado TEXT,
                 categoria_calificacion TEXT,
                 decada TEXT,
-                puntuacion_ajustada FLOAT,
-                fecha_procesamiento DATE
+                puntuacion_ajustada FLOAT
             );
         `;
         await pgClient.query(createTableQuery);
@@ -79,16 +78,15 @@ app.get("/api/transform", async (req, res) => {
         const movies = result.records.map(record => {
             const nombre = record.get("nombre");
             const calificacion = parseFloat(record.get("calificacion")) || 0; 
-            const año = record.get("año");
+            const año = Number(record.get("año"));
 
             // Transformaciones
             const nombreFormateado = nombre.toLowerCase().replace(/\s+/g, '-');
             const categoriaCalificacion = calificacion <= 5 ? "Mala" : calificacion <= 7 ? "Regular" : "Buena";
             const decada = `${Math.floor(año / 10) * 10}s`;
             const puntuacionAjustada = (calificacion * 2) - (2025 - año) / 10;
-            const fechaProcesamiento = new Date().toISOString().split('T')[0];
 
-            return { nombreFormateado, categoriaCalificacion, decada, puntuacionAjustada, fechaProcesamiento };
+            return { nombreFormateado, categoriaCalificacion, decada, puntuacionAjustada};
         });
 
         // Crear la tabla si no existe
@@ -113,10 +111,10 @@ const loadDataIntoPostgreSQL = async (movies) => {
     try {
         for (const movie of movies) {
             const insertQuery = `
-                INSERT INTO etl_data (nombre_formateado, categoria_calificacion, decada, puntuacion_ajustada, fecha_procesamiento)
-                VALUES ($1, $2, $3, $4, $5)
+                INSERT INTO etl_data (nombre_formateado, categoria_calificacion, decada, puntuacion_ajustada)
+                VALUES ($1, $2, $3, $4)
             `;
-            await pgClient.query(insertQuery, [movie.nombreFormateado, movie.categoriaCalificacion, movie.decada, movie.puntuacionAjustada, movie.fechaProcesamiento]);
+            await pgClient.query(insertQuery, [movie.nombreFormateado, movie.categoriaCalificacion, movie.decada, movie.puntuacionAjustada]);
         }
 
         console.log("Datos cargados en PostgreSQL correctamente.");
