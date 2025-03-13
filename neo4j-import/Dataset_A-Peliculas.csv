@@ -1,0 +1,1501 @@
+id,nombre,calificacion,año_lanzamiento,genero
+1,Interstellar,4.2,1993,Drama
+2,The Shawshank Redemption,4.3,2007,Ciencia Ficción
+3,Jurassic Park,6.3,2001,Drama
+4,The Matrix,6.9,1998,Ciencia Ficción
+5,The Social Network,9.2,1982,Terror
+6,Schindler's List,9.3,1988,Acción
+7,Star Wars,6.7,2005,Drama
+8,The Lion King,6.1,1994,Drama
+9,Interstellar,4.3,2002,Ciencia Ficción
+10,The Grand Budapest Hotel,5.6,1992,Comedia
+11,The Silence of the Lambs,2.4,1982,Ciencia Ficción
+12,Spider-Man: No Way Home,5.4,2013,Terror
+13,Spider-Man: No Way Home,9.8,1995,Comedia
+14,Django Unchained,7.7,2012,Drama
+15,Star Wars,9.7,2001,Ciencia Ficción
+16,Spider-Man: No Way Home,6.8,2007,Acción
+17,The Godfather,1.5,2005,Acción
+18,Schindler's List,4.1,1991,Terror
+19,Interstellar,9.3,1982,Terror
+20,The Grand Budapest Hotel,8.1,2002,Acción
+21,Mad Max: Fury Road,3.8,1982,Ciencia Ficción
+22,Spider-Man: No Way Home,6.5,2016,Ciencia Ficción
+23,The Social Network,7.9,2022,Ciencia Ficción
+24,Toy Story,1.9,1994,Comedia
+25,The Lion King,5.0,2013,Terror
+26,Star Wars,7.4,2008,Terror
+27,Finding Nemo,1.9,1986,Comedia
+28,The Dark Knight,1.4,2011,Drama
+29,Pulp Fiction,5.4,2017,Drama
+30,The Lion King,8.8,2010,Ciencia Ficción
+31,The Shawshank Redemption,10.0,2012,Ciencia Ficción
+32,The Lord of the Rings,8.6,2016,Acción
+33,Interstellar,4.6,2017,Ciencia Ficción
+34,Pulp Fiction,7.3,1996,Drama
+35,Finding Nemo,9.5,2014,Acción
+36,Forrest Gump,1.5,2018,Terror
+37,Avengers: Endgame,9.5,1993,Drama
+38,The Grand Budapest Hotel,3.7,2022,Comedia
+39,Toy Story,5.1,2010,Ciencia Ficción
+40,The Grand Budapest Hotel,1.3,1992,Terror
+41,Schindler's List,7.2,1991,Terror
+42,Parasite,5.6,2010,Acción
+43,Titanic,9.6,1995,Ciencia Ficción
+44,Mad Max: Fury Road,7.8,1998,Acción
+45,Whiplash,2.0,2012,Terror
+46,Spider-Man: No Way Home,1.8,1984,Comedia
+47,The Godfather,5.6,1989,Acción
+48,Jurassic Park,6.4,1990,Acción
+49,Django Unchained,7.7,2004,Drama
+50,Fight Club,4.9,2007,Ciencia Ficción
+51,Interstellar,9.3,1994,Ciencia Ficción
+52,The Lion King,4.0,2022,Terror
+53,Coco,2.0,1986,Acción
+54,Fight Club,1.2,1999,Comedia
+55,Fight Club,3.6,1985,Ciencia Ficción
+56,Interstellar,8.6,2014,Drama
+57,Jurassic Park,7.8,1992,Ciencia Ficción
+58,Jurassic Park,3.0,2011,Terror
+59,Whiplash,3.3,1986,Terror
+60,Gladiator,7.1,2009,Acción
+61,Braveheart,5.3,1997,Comedia
+62,Coco,3.2,1993,Drama
+63,Finding Nemo,6.4,1998,Acción
+64,Braveheart,1.1,1984,Drama
+65,Django Unchained,3.6,1998,Comedia
+66,Inception,5.1,1982,Comedia
+67,The Lord of the Rings,5.2,2002,Terror
+68,Forrest Gump,6.7,1985,Comedia
+69,The Revenant,8.0,1991,Drama
+70,The Dark Knight,1.2,2006,Ciencia Ficción
+71,Pulp Fiction,7.6,2007,Terror
+72,Titanic,8.3,2023,Ciencia Ficción
+73,The Revenant,2.5,1985,Terror
+74,Schindler's List,1.7,2012,Drama
+75,The Godfather,5.0,1987,Terror
+76,The Silence of the Lambs,2.2,2004,Ciencia Ficción
+77,The Lion King,9.7,2002,Ciencia Ficción
+78,Avengers: Endgame,4.5,2000,Terror
+79,The Godfather,5.4,1987,Ciencia Ficción
+80,Spider-Man: No Way Home,5.0,2001,Acción
+81,The Matrix,9.4,1987,Ciencia Ficción
+82,Star Wars,1.3,1992,Ciencia Ficción
+83,The Shawshank Redemption,7.8,2002,Drama
+84,The Matrix,7.7,2014,Terror
+85,Fight Club,6.7,1985,Drama
+86,The Shawshank Redemption,3.2,2022,Acción
+87,The Lion King,2.4,1985,Ciencia Ficción
+88,Star Wars,4.0,2018,Drama
+89,The Shawshank Redemption,8.1,2003,Ciencia Ficción
+90,Finding Nemo,5.5,2009,Drama
+91,Fight Club,5.0,1998,Acción
+92,Forrest Gump,3.4,1992,Ciencia Ficción
+93,Pulp Fiction,2.4,1998,Ciencia Ficción
+94,Star Wars,1.4,2011,Drama
+95,Fight Club,4.4,2020,Drama
+96,Interstellar,1.7,2023,Ciencia Ficción
+97,The Dark Knight,4.5,2020,Drama
+98,The Revenant,5.0,1983,Ciencia Ficción
+99,Schindler's List,4.8,1999,Ciencia Ficción
+100,Braveheart,10.0,1986,Comedia
+101,Coco,2.4,1985,Terror
+102,Braveheart,8.6,1983,Drama
+103,Interstellar,4.3,2018,Terror
+104,Braveheart,8.7,1988,Terror
+105,Whiplash,3.5,2006,Terror
+106,Fight Club,9.1,1982,Comedia
+107,Braveheart,5.2,2005,Acción
+108,The Godfather,9.5,2012,Drama
+109,Fight Club,9.9,2008,Ciencia Ficción
+110,Braveheart,7.1,1990,Comedia
+111,The Revenant,6.5,1984,Acción
+112,Forrest Gump,6.2,1994,Ciencia Ficción
+113,The Silence of the Lambs,4.1,2009,Comedia
+114,Mad Max: Fury Road,7.5,1992,Acción
+115,Star Wars,2.7,2008,Drama
+116,Pulp Fiction,9.1,2015,Comedia
+117,Jurassic Park,7.0,2007,Terror
+118,Parasite,4.9,2010,Terror
+119,Mad Max: Fury Road,5.0,1993,Comedia
+120,Finding Nemo,8.2,2004,Terror
+121,Gladiator,4.0,1996,Terror
+122,Schindler's List,1.8,1999,Acción
+123,The Matrix,7.5,2015,Terror
+124,The Grand Budapest Hotel,1.8,1993,Drama
+125,Pulp Fiction,3.1,2020,Comedia
+126,Braveheart,9.2,1985,Comedia
+127,Avengers: Endgame,6.1,2014,Ciencia Ficción
+128,Coco,2.1,2020,Terror
+129,The Revenant,6.7,2011,Comedia
+130,Braveheart,8.1,1986,Comedia
+131,Whiplash,6.3,2015,Ciencia Ficción
+132,Avengers: Endgame,5.0,1980,Ciencia Ficción
+133,Whiplash,4.7,2010,Ciencia Ficción
+134,The Lord of the Rings,9.0,1985,Comedia
+135,Whiplash,8.2,2005,Acción
+136,Forrest Gump,4.2,2002,Comedia
+137,The Matrix,2.5,1980,Comedia
+138,The Shawshank Redemption,4.5,1990,Acción
+139,The Silence of the Lambs,5.5,1990,Acción
+140,Spider-Man: No Way Home,7.7,2010,Comedia
+141,The Grand Budapest Hotel,8.4,1980,Drama
+142,The Matrix,6.1,2005,Ciencia Ficción
+143,The Silence of the Lambs,6.8,2001,Ciencia Ficción
+144,Django Unchained,8.3,2001,Terror
+145,Whiplash,4.5,2021,Acción
+146,Django Unchained,1.7,2005,Terror
+147,Braveheart,9.8,1984,Ciencia Ficción
+148,The Shawshank Redemption,1.3,1985,Terror
+149,The Matrix,3.6,2019,Ciencia Ficción
+150,The Lion King,4.7,2023,Comedia
+151,Spider-Man: No Way Home,5.6,1983,Drama
+152,Interstellar,6.0,2011,Terror
+153,Titanic,2.6,2021,Acción
+154,Inception,2.9,2007,Acción
+155,The Silence of the Lambs,1.8,2017,Ciencia Ficción
+156,The Matrix,6.3,2017,Comedia
+157,Fight Club,1.4,2005,Drama
+158,Titanic,9.6,2013,Comedia
+159,The Social Network,9.8,1984,Ciencia Ficción
+160,Gladiator,6.5,2003,Terror
+161,Braveheart,6.9,1992,Comedia
+162,The Matrix,4.3,2018,Comedia
+163,Parasite,9.1,2021,Terror
+164,Fight Club,5.2,2007,Terror
+165,The Revenant,7.1,2002,Comedia
+166,Inception,6.9,2014,Comedia
+167,The Social Network,5.6,2007,Comedia
+168,The Silence of the Lambs,1.7,1997,Comedia
+169,Gladiator,6.6,2017,Comedia
+170,Finding Nemo,2.0,2012,Drama
+171,Pulp Fiction,8.0,2012,Drama
+172,Gladiator,7.1,2006,Ciencia Ficción
+173,The Lord of the Rings,7.1,1986,Drama
+174,Avengers: Endgame,2.3,1996,Acción
+175,Django Unchained,2.4,2023,Ciencia Ficción
+176,The Lion King,2.3,2020,Acción
+177,The Silence of the Lambs,8.7,2005,Ciencia Ficción
+178,The Dark Knight,1.0,1994,Ciencia Ficción
+179,Spider-Man: No Way Home,6.5,2020,Acción
+180,The Grand Budapest Hotel,9.0,2020,Terror
+181,Spider-Man: No Way Home,4.4,2017,Comedia
+182,Schindler's List,7.9,1984,Ciencia Ficción
+183,Parasite,3.6,1988,Drama
+184,The Shawshank Redemption,6.9,2004,Terror
+185,Interstellar,6.7,2010,Comedia
+186,Gladiator,7.3,2017,Acción
+187,Inception,7.8,1984,Ciencia Ficción
+188,The Lord of the Rings,5.4,1994,Comedia
+189,Schindler's List,5.6,2004,Ciencia Ficción
+190,Fight Club,6.0,2016,Terror
+191,Fight Club,1.0,2016,Acción
+192,Fight Club,3.0,2019,Acción
+193,The Grand Budapest Hotel,6.4,2018,Acción
+194,Coco,1.8,1999,Acción
+195,The Lion King,6.6,2022,Drama
+196,Finding Nemo,1.3,2008,Drama
+197,The Lion King,8.7,1980,Terror
+198,The Social Network,3.6,1998,Drama
+199,Toy Story,9.5,1981,Ciencia Ficción
+200,The Revenant,5.3,2012,Drama
+201,Inception,7.0,2017,Drama
+202,The Silence of the Lambs,2.1,2018,Drama
+203,The Lion King,2.8,2023,Comedia
+204,Forrest Gump,2.7,2004,Acción
+205,The Dark Knight,5.8,2009,Terror
+206,Mad Max: Fury Road,4.1,1999,Comedia
+207,The Godfather,7.3,2000,Terror
+208,The Shawshank Redemption,5.3,2011,Terror
+209,Jurassic Park,2.3,1980,Comedia
+210,Star Wars,6.2,1981,Terror
+211,Star Wars,7.9,2007,Terror
+212,Fight Club,7.8,1997,Comedia
+213,The Grand Budapest Hotel,2.6,1996,Comedia
+214,Jurassic Park,7.1,2017,Terror
+215,The Lion King,8.7,1987,Drama
+216,The Shawshank Redemption,1.1,2002,Terror
+217,Fight Club,4.7,1988,Acción
+218,Whiplash,6.8,1991,Terror
+219,The Grand Budapest Hotel,5.4,2017,Ciencia Ficción
+220,Schindler's List,8.0,2002,Acción
+221,Gladiator,5.8,2007,Drama
+222,The Godfather,6.5,2000,Comedia
+223,The Dark Knight,7.2,2022,Comedia
+224,The Silence of the Lambs,5.8,2020,Acción
+225,Forrest Gump,6.6,1981,Comedia
+226,Forrest Gump,5.6,1988,Ciencia Ficción
+227,Avengers: Endgame,5.9,1991,Ciencia Ficción
+228,The Social Network,9.8,1988,Terror
+229,Fight Club,7.9,1993,Comedia
+230,The Dark Knight,2.6,2005,Acción
+231,The Revenant,2.3,2020,Ciencia Ficción
+232,Titanic,6.9,2011,Comedia
+233,Mad Max: Fury Road,6.8,1997,Terror
+234,The Grand Budapest Hotel,6.6,2014,Acción
+235,The Revenant,3.9,2013,Ciencia Ficción
+236,Django Unchained,3.6,1995,Ciencia Ficción
+237,Spider-Man: No Way Home,5.8,1988,Ciencia Ficción
+238,Finding Nemo,7.8,1994,Drama
+239,The Lion King,7.9,2020,Acción
+240,Finding Nemo,2.6,1984,Comedia
+241,The Shawshank Redemption,4.7,1990,Ciencia Ficción
+242,Schindler's List,5.6,2004,Comedia
+243,Finding Nemo,1.6,1982,Comedia
+244,The Lion King,2.4,1982,Acción
+245,Pulp Fiction,6.1,1983,Drama
+246,The Dark Knight,4.7,2018,Drama
+247,Interstellar,4.4,1992,Acción
+248,Interstellar,9.9,1997,Terror
+249,The Silence of the Lambs,5.4,1985,Acción
+250,Braveheart,2.2,2020,Ciencia Ficción
+251,Interstellar,1.9,2001,Ciencia Ficción
+252,Fight Club,1.2,1983,Acción
+253,The Lord of the Rings,7.7,1993,Ciencia Ficción
+254,Whiplash,3.3,1998,Ciencia Ficción
+255,The Social Network,2.7,2015,Terror
+256,Parasite,7.2,1991,Terror
+257,The Social Network,1.4,1998,Comedia
+258,Titanic,6.2,2007,Terror
+259,The Grand Budapest Hotel,1.4,2003,Terror
+260,Mad Max: Fury Road,7.9,2002,Comedia
+261,The Grand Budapest Hotel,3.6,2006,Acción
+262,Whiplash,2.4,1983,Comedia
+263,The Grand Budapest Hotel,5.9,2018,Comedia
+264,The Dark Knight,4.1,2018,Acción
+265,The Shawshank Redemption,7.4,1981,Ciencia Ficción
+266,Braveheart,9.1,2014,Terror
+267,Fight Club,2.8,2009,Ciencia Ficción
+268,Inception,6.4,2015,Drama
+269,The Lion King,6.3,1998,Drama
+270,The Dark Knight,4.7,2022,Comedia
+271,Parasite,2.7,1990,Acción
+272,Braveheart,9.8,1985,Drama
+273,Interstellar,3.9,2005,Ciencia Ficción
+274,Coco,4.9,1996,Ciencia Ficción
+275,Finding Nemo,2.8,2015,Acción
+276,Jurassic Park,4.2,2012,Drama
+277,Forrest Gump,5.4,1982,Ciencia Ficción
+278,Mad Max: Fury Road,2.7,2022,Acción
+279,The Godfather,7.8,2017,Acción
+280,Avengers: Endgame,6.5,2017,Drama
+281,The Lord of the Rings,9.4,1991,Comedia
+282,Pulp Fiction,1.9,2016,Terror
+283,Django Unchained,1.8,1983,Ciencia Ficción
+284,Spider-Man: No Way Home,8.1,2022,Comedia
+285,Whiplash,5.6,2009,Terror
+286,Jurassic Park,8.7,1995,Drama
+287,Finding Nemo,2.3,2006,Ciencia Ficción
+288,Schindler's List,2.6,1986,Ciencia Ficción
+289,Coco,4.3,2000,Ciencia Ficción
+290,The Lion King,3.1,2012,Drama
+291,Pulp Fiction,8.6,1985,Ciencia Ficción
+292,Star Wars,9.6,2005,Acción
+293,Finding Nemo,4.1,1991,Comedia
+294,Spider-Man: No Way Home,8.3,1999,Terror
+295,The Social Network,7.3,2018,Terror
+296,The Lion King,6.0,1993,Ciencia Ficción
+297,Titanic,5.9,1993,Terror
+298,Braveheart,9.2,1993,Comedia
+299,Whiplash,9.1,1984,Comedia
+300,Gladiator,4.6,1991,Drama
+301,The Revenant,6.0,1997,Comedia
+302,The Lord of the Rings,5.7,2011,Acción
+303,The Dark Knight,6.9,1989,Acción
+304,The Lord of the Rings,7.3,1998,Drama
+305,The Shawshank Redemption,5.2,2019,Comedia
+306,The Dark Knight,6.7,2007,Ciencia Ficción
+307,Braveheart,8.2,1991,Drama
+308,Avengers: Endgame,2.9,1983,Ciencia Ficción
+309,The Dark Knight,4.4,2007,Ciencia Ficción
+310,Inception,3.9,1996,Drama
+311,Forrest Gump,6.7,1994,Ciencia Ficción
+312,The Silence of the Lambs,5.2,2018,Acción
+313,The Revenant,9.1,1993,Comedia
+314,Spider-Man: No Way Home,1.3,2018,Acción
+315,Finding Nemo,2.1,1995,Ciencia Ficción
+316,Titanic,5.5,2007,Ciencia Ficción
+317,The Grand Budapest Hotel,9.0,1993,Comedia
+318,The Dark Knight,7.8,2013,Ciencia Ficción
+319,Coco,10.0,1982,Ciencia Ficción
+320,Forrest Gump,3.8,2015,Acción
+321,The Social Network,1.8,1989,Comedia
+322,Gladiator,8.9,2005,Acción
+323,Jurassic Park,6.8,2020,Comedia
+324,The Lord of the Rings,4.9,1988,Terror
+325,Parasite,4.8,1980,Acción
+326,Inception,2.6,1991,Terror
+327,Braveheart,1.4,1988,Ciencia Ficción
+328,Spider-Man: No Way Home,6.3,1994,Comedia
+329,Star Wars,9.3,2008,Drama
+330,Jurassic Park,9.4,1995,Terror
+331,Gladiator,4.1,2009,Ciencia Ficción
+332,Forrest Gump,7.0,2011,Acción
+333,Braveheart,2.9,2023,Acción
+334,Parasite,4.0,2002,Ciencia Ficción
+335,Fight Club,2.0,1999,Acción
+336,Spider-Man: No Way Home,3.6,1980,Comedia
+337,Forrest Gump,7.9,2017,Acción
+338,Jurassic Park,6.3,2020,Acción
+339,The Matrix,8.4,1981,Terror
+340,The Matrix,3.2,2004,Acción
+341,Forrest Gump,8.3,1981,Comedia
+342,The Shawshank Redemption,2.5,1999,Acción
+343,Forrest Gump,5.5,1985,Comedia
+344,Schindler's List,7.1,2000,Terror
+345,The Social Network,4.1,2019,Comedia
+346,Star Wars,4.8,1993,Drama
+347,Avengers: Endgame,3.4,1999,Drama
+348,The Lion King,1.6,1992,Acción
+349,The Grand Budapest Hotel,5.7,2004,Ciencia Ficción
+350,Finding Nemo,7.8,2020,Comedia
+351,Gladiator,5.1,1991,Ciencia Ficción
+352,The Social Network,1.6,1998,Terror
+353,Inception,2.4,1994,Drama
+354,Jurassic Park,4.3,1989,Drama
+355,Spider-Man: No Way Home,4.1,2020,Acción
+356,Django Unchained,5.3,1982,Ciencia Ficción
+357,Pulp Fiction,8.2,1980,Acción
+358,Fight Club,4.6,1988,Acción
+359,The Social Network,5.9,2015,Comedia
+360,Avengers: Endgame,1.9,2012,Ciencia Ficción
+361,Coco,4.8,2021,Drama
+362,The Social Network,9.0,2000,Comedia
+363,The Silence of the Lambs,7.5,2015,Ciencia Ficción
+364,Whiplash,7.4,2008,Comedia
+365,Fight Club,9.9,1981,Terror
+366,The Godfather,2.7,2023,Ciencia Ficción
+367,Pulp Fiction,3.6,2020,Comedia
+368,Parasite,6.4,2018,Ciencia Ficción
+369,Finding Nemo,4.9,2022,Drama
+370,Fight Club,4.2,2019,Terror
+371,Star Wars,8.7,1984,Ciencia Ficción
+372,Finding Nemo,5.2,2012,Drama
+373,Schindler's List,2.6,2010,Ciencia Ficción
+374,Django Unchained,6.6,1998,Terror
+375,Mad Max: Fury Road,7.5,2008,Comedia
+376,Coco,1.8,1992,Acción
+377,The Matrix,9.2,2019,Drama
+378,Pulp Fiction,4.2,1982,Drama
+379,The Lion King,4.7,2017,Terror
+380,The Dark Knight,7.3,2018,Comedia
+381,Inception,7.3,2020,Comedia
+382,The Grand Budapest Hotel,8.4,2004,Comedia
+383,The Shawshank Redemption,9.6,2001,Terror
+384,The Matrix,1.8,2006,Acción
+385,Jurassic Park,6.4,2008,Drama
+386,The Grand Budapest Hotel,1.9,2014,Comedia
+387,The Dark Knight,3.8,2009,Comedia
+388,Star Wars,4.0,1989,Comedia
+389,Mad Max: Fury Road,8.3,1990,Drama
+390,The Lion King,7.4,2019,Drama
+391,Gladiator,2.3,2010,Terror
+392,Spider-Man: No Way Home,8.3,2015,Ciencia Ficción
+393,Finding Nemo,9.8,2010,Comedia
+394,Titanic,5.0,1988,Ciencia Ficción
+395,The Silence of the Lambs,6.2,2003,Ciencia Ficción
+396,Coco,6.9,2023,Acción
+397,Django Unchained,6.0,1990,Drama
+398,Toy Story,4.8,2000,Ciencia Ficción
+399,Schindler's List,9.3,1989,Acción
+400,Mad Max: Fury Road,6.1,2015,Ciencia Ficción
+401,Whiplash,8.2,1987,Terror
+402,Fight Club,1.6,1980,Ciencia Ficción
+403,The Godfather,4.0,2013,Acción
+404,The Matrix,6.6,2009,Comedia
+405,Jurassic Park,5.4,2023,Comedia
+406,The Silence of the Lambs,8.3,1980,Acción
+407,Interstellar,9.6,1990,Terror
+408,Whiplash,4.3,1993,Comedia
+409,The Matrix,9.9,2003,Drama
+410,Whiplash,1.9,1994,Comedia
+411,Inception,9.0,1986,Acción
+412,Whiplash,8.5,2023,Comedia
+413,Spider-Man: No Way Home,8.1,1988,Ciencia Ficción
+414,Inception,6.9,1991,Ciencia Ficción
+415,The Lord of the Rings,5.8,1992,Comedia
+416,Star Wars,6.0,1990,Ciencia Ficción
+417,The Dark Knight,8.7,2000,Acción
+418,The Lion King,4.2,1996,Terror
+419,Jurassic Park,6.8,2022,Comedia
+420,Spider-Man: No Way Home,8.5,2002,Ciencia Ficción
+421,The Silence of the Lambs,3.2,1996,Drama
+422,The Grand Budapest Hotel,9.8,1986,Terror
+423,Django Unchained,2.9,2002,Ciencia Ficción
+424,Pulp Fiction,8.8,2009,Comedia
+425,Gladiator,5.2,2009,Terror
+426,Coco,3.2,2010,Acción
+427,Spider-Man: No Way Home,1.1,1980,Drama
+428,The Matrix,4.4,2015,Ciencia Ficción
+429,Parasite,7.1,1999,Ciencia Ficción
+430,The Shawshank Redemption,1.6,1999,Acción
+431,The Revenant,8.3,1986,Comedia
+432,Django Unchained,2.4,2020,Acción
+433,Braveheart,1.7,2009,Terror
+434,The Lion King,4.7,1986,Comedia
+435,The Matrix,5.1,1991,Comedia
+436,Inception,1.7,2010,Acción
+437,Gladiator,4.1,1999,Acción
+438,Braveheart,8.2,2008,Drama
+439,Schindler's List,2.1,2002,Acción
+440,The Revenant,9.9,2010,Acción
+441,Coco,5.8,2019,Terror
+442,Coco,8.5,1998,Ciencia Ficción
+443,Pulp Fiction,2.5,2011,Drama
+444,Spider-Man: No Way Home,9.0,1986,Acción
+445,Toy Story,1.3,2015,Terror
+446,The Lion King,5.6,2023,Comedia
+447,Braveheart,9.6,2004,Acción
+448,Star Wars,7.7,2000,Comedia
+449,Toy Story,4.9,2022,Ciencia Ficción
+450,Schindler's List,3.3,2006,Acción
+451,Titanic,6.1,2018,Terror
+452,Inception,1.2,1994,Ciencia Ficción
+453,Star Wars,4.2,2015,Terror
+454,Forrest Gump,4.5,2001,Ciencia Ficción
+455,Whiplash,3.3,2000,Drama
+456,Jurassic Park,5.0,1985,Comedia
+457,Fight Club,7.6,1985,Drama
+458,Whiplash,3.7,1981,Acción
+459,Inception,6.6,1983,Terror
+460,The Matrix,8.4,1981,Ciencia Ficción
+461,The Lord of the Rings,8.1,1982,Terror
+462,The Grand Budapest Hotel,4.4,1990,Drama
+463,Avengers: Endgame,3.6,2000,Ciencia Ficción
+464,Braveheart,5.7,1984,Ciencia Ficción
+465,Forrest Gump,6.4,2008,Comedia
+466,Avengers: Endgame,9.2,2007,Acción
+467,Spider-Man: No Way Home,8.9,2004,Comedia
+468,The Grand Budapest Hotel,7.5,2020,Terror
+469,Inception,3.1,2014,Terror
+470,The Silence of the Lambs,5.4,1999,Drama
+471,Coco,6.2,2007,Acción
+472,The Shawshank Redemption,4.0,1992,Drama
+473,Django Unchained,6.1,1983,Ciencia Ficción
+474,Whiplash,5.4,1998,Acción
+475,Forrest Gump,9.3,1986,Acción
+476,Finding Nemo,6.4,1998,Drama
+477,Forrest Gump,5.5,2012,Terror
+478,Schindler's List,5.8,2004,Ciencia Ficción
+479,Interstellar,1.4,1998,Ciencia Ficción
+480,Coco,9.3,1986,Acción
+481,Toy Story,6.9,1995,Drama
+482,Parasite,8.4,1981,Acción
+483,Parasite,2.3,2010,Acción
+484,Whiplash,5.0,1982,Terror
+485,Django Unchained,8.1,1998,Comedia
+486,Schindler's List,9.5,2015,Terror
+487,The Social Network,2.8,2012,Ciencia Ficción
+488,Fight Club,8.2,2022,Ciencia Ficción
+489,Avengers: Endgame,4.9,1984,Terror
+490,Coco,9.3,1998,Terror
+491,The Lord of the Rings,8.7,2000,Comedia
+492,Schindler's List,6.3,2014,Ciencia Ficción
+493,The Godfather,4.3,1998,Drama
+494,The Grand Budapest Hotel,9.2,1993,Terror
+495,Gladiator,2.8,2010,Comedia
+496,Toy Story,8.1,1981,Ciencia Ficción
+497,Coco,3.8,1988,Terror
+498,Titanic,7.9,1998,Drama
+499,Toy Story,5.6,1993,Comedia
+500,Whiplash,1.6,1992,Acción
+501,Gladiator,6.2,2016,Terror
+502,Fight Club,3.0,1990,Drama
+503,Pulp Fiction,6.7,1994,Ciencia Ficción
+504,The Godfather,8.1,1995,Drama
+505,The Social Network,1.1,2022,Drama
+506,Inception,5.4,2017,Acción
+507,Forrest Gump,7.1,1984,Terror
+508,Parasite,6.5,2011,Acción
+509,Star Wars,4.4,1995,Drama
+510,Forrest Gump,5.6,1987,Comedia
+511,Braveheart,6.6,1987,Ciencia Ficción
+512,Forrest Gump,8.2,2017,Ciencia Ficción
+513,Toy Story,9.0,2021,Ciencia Ficción
+514,The Lion King,4.3,2021,Comedia
+515,The Lion King,7.9,1987,Ciencia Ficción
+516,The Grand Budapest Hotel,3.2,2011,Comedia
+517,The Silence of the Lambs,4.8,2000,Terror
+518,Titanic,7.9,2016,Acción
+519,Interstellar,9.9,2008,Ciencia Ficción
+520,The Revenant,2.5,1998,Drama
+521,The Lord of the Rings,7.1,1993,Terror
+522,The Silence of the Lambs,7.4,1987,Comedia
+523,The Social Network,9.4,2003,Terror
+524,The Social Network,6.0,2011,Ciencia Ficción
+525,The Grand Budapest Hotel,4.9,1997,Drama
+526,The Social Network,3.4,1990,Ciencia Ficción
+527,Interstellar,4.1,2012,Terror
+528,The Revenant,4.1,2020,Drama
+529,Spider-Man: No Way Home,8.3,1995,Acción
+530,Django Unchained,8.3,1998,Comedia
+531,Inception,1.5,2022,Acción
+532,Finding Nemo,1.9,2010,Terror
+533,Fight Club,7.3,2021,Comedia
+534,The Godfather,4.3,2013,Comedia
+535,The Godfather,9.7,2021,Acción
+536,Finding Nemo,7.2,2003,Drama
+537,Pulp Fiction,5.1,2002,Ciencia Ficción
+538,The Grand Budapest Hotel,9.9,2000,Terror
+539,Toy Story,8.7,2023,Drama
+540,Pulp Fiction,6.6,1992,Comedia
+541,Jurassic Park,5.5,1980,Terror
+542,The Silence of the Lambs,9.8,1984,Acción
+543,Spider-Man: No Way Home,5.7,1981,Drama
+544,The Revenant,3.2,2013,Drama
+545,The Matrix,5.8,2006,Ciencia Ficción
+546,The Social Network,4.2,1983,Drama
+547,Star Wars,4.7,2001,Terror
+548,Parasite,1.7,2000,Terror
+549,Whiplash,9.7,2009,Terror
+550,Mad Max: Fury Road,6.8,1997,Comedia
+551,Fight Club,5.7,2002,Acción
+552,Parasite,9.4,1999,Drama
+553,Finding Nemo,8.3,1989,Drama
+554,The Grand Budapest Hotel,7.9,2020,Ciencia Ficción
+555,The Godfather,7.5,2015,Ciencia Ficción
+556,Coco,4.4,1985,Acción
+557,Toy Story,6.7,2021,Terror
+558,Gladiator,6.5,1983,Drama
+559,Titanic,8.2,2003,Ciencia Ficción
+560,The Social Network,3.7,1996,Comedia
+561,The Dark Knight,7.2,2009,Drama
+562,Interstellar,4.6,1989,Comedia
+563,Whiplash,7.2,2022,Ciencia Ficción
+564,Mad Max: Fury Road,8.1,2003,Comedia
+565,Mad Max: Fury Road,6.3,2010,Drama
+566,Gladiator,8.7,2000,Ciencia Ficción
+567,Pulp Fiction,1.1,2010,Comedia
+568,The Godfather,2.8,1983,Terror
+569,The Matrix,1.3,2002,Terror
+570,Schindler's List,4.5,2000,Acción
+571,Titanic,8.1,1989,Acción
+572,The Silence of the Lambs,7.6,1997,Terror
+573,Pulp Fiction,8.7,1983,Comedia
+574,Forrest Gump,6.3,2013,Comedia
+575,Inception,9.0,2009,Drama
+576,The Revenant,10.0,2001,Terror
+577,Gladiator,7.3,2008,Acción
+578,Toy Story,8.8,1985,Drama
+579,The Godfather,1.1,2012,Comedia
+580,Forrest Gump,2.9,2014,Terror
+581,The Godfather,2.1,1987,Acción
+582,Spider-Man: No Way Home,7.2,2020,Drama
+583,Whiplash,2.9,1988,Terror
+584,The Silence of the Lambs,5.6,1993,Acción
+585,The Lord of the Rings,7.2,1998,Ciencia Ficción
+586,Interstellar,4.9,2001,Comedia
+587,Parasite,5.6,2001,Drama
+588,Whiplash,8.0,2013,Acción
+589,Braveheart,6.5,2011,Acción
+590,Braveheart,5.4,2011,Ciencia Ficción
+591,The Godfather,7.8,1996,Drama
+592,The Godfather,1.5,2019,Acción
+593,Pulp Fiction,5.8,2019,Comedia
+594,Finding Nemo,6.8,1994,Acción
+595,The Matrix,2.0,2018,Terror
+596,Parasite,4.9,2016,Drama
+597,Finding Nemo,5.1,2008,Terror
+598,The Silence of the Lambs,3.8,2011,Ciencia Ficción
+599,Coco,7.1,1993,Drama
+600,Finding Nemo,6.8,1988,Terror
+601,Spider-Man: No Way Home,5.4,1998,Terror
+602,The Dark Knight,5.2,1999,Comedia
+603,The Grand Budapest Hotel,9.6,2021,Comedia
+604,Toy Story,4.8,2015,Terror
+605,The Shawshank Redemption,1.8,1996,Acción
+606,The Silence of the Lambs,7.6,2011,Comedia
+607,The Social Network,7.8,1992,Terror
+608,The Shawshank Redemption,4.9,2001,Drama
+609,Spider-Man: No Way Home,4.4,2017,Drama
+610,Fight Club,6.0,2003,Comedia
+611,Fight Club,5.1,1987,Terror
+612,Schindler's List,6.6,1985,Terror
+613,The Social Network,4.4,2011,Acción
+614,The Shawshank Redemption,2.7,2017,Terror
+615,The Dark Knight,1.7,2001,Drama
+616,Star Wars,1.4,1982,Comedia
+617,Inception,9.6,1992,Ciencia Ficción
+618,The Grand Budapest Hotel,3.6,2008,Ciencia Ficción
+619,The Social Network,5.8,2000,Comedia
+620,The Social Network,1.1,2015,Comedia
+621,Whiplash,5.5,1998,Acción
+622,Spider-Man: No Way Home,9.5,1981,Drama
+623,Avengers: Endgame,1.7,2006,Ciencia Ficción
+624,Mad Max: Fury Road,3.6,2011,Drama
+625,Jurassic Park,7.3,2007,Terror
+626,Whiplash,5.9,1992,Ciencia Ficción
+627,Interstellar,8.1,2019,Terror
+628,Star Wars,8.5,2015,Comedia
+629,Inception,9.2,2001,Ciencia Ficción
+630,The Matrix,2.1,1986,Comedia
+631,The Silence of the Lambs,2.8,1995,Acción
+632,The Social Network,6.9,2002,Drama
+633,Inception,6.4,2009,Comedia
+634,The Shawshank Redemption,10.0,1981,Acción
+635,Mad Max: Fury Road,7.1,1994,Drama
+636,The Revenant,4.5,2019,Terror
+637,The Lion King,5.4,2018,Comedia
+638,Jurassic Park,8.9,2014,Acción
+639,The Shawshank Redemption,2.6,2006,Drama
+640,The Lord of the Rings,4.5,1991,Terror
+641,Avengers: Endgame,6.0,1999,Acción
+642,The Silence of the Lambs,4.5,1998,Terror
+643,The Social Network,6.1,1987,Ciencia Ficción
+644,Fight Club,8.3,2011,Drama
+645,The Dark Knight,2.0,1991,Ciencia Ficción
+646,Pulp Fiction,1.8,1997,Comedia
+647,The Silence of the Lambs,4.2,2002,Terror
+648,The Lord of the Rings,2.2,1981,Acción
+649,Forrest Gump,5.8,2008,Acción
+650,The Dark Knight,6.9,2014,Comedia
+651,Braveheart,1.5,1981,Terror
+652,Jurassic Park,2.5,1992,Terror
+653,The Lord of the Rings,6.7,2009,Ciencia Ficción
+654,Fight Club,4.7,2010,Comedia
+655,Gladiator,6.7,2017,Drama
+656,Coco,3.1,2003,Acción
+657,Star Wars,1.1,1985,Drama
+658,Star Wars,7.8,2000,Ciencia Ficción
+659,The Matrix,7.1,1994,Drama
+660,Whiplash,6.2,2016,Terror
+661,Pulp Fiction,2.8,1995,Terror
+662,Finding Nemo,8.1,1986,Acción
+663,The Social Network,6.0,1981,Ciencia Ficción
+664,Interstellar,7.4,2015,Acción
+665,The Shawshank Redemption,6.4,2017,Drama
+666,Inception,5.3,2013,Acción
+667,Coco,4.0,1998,Comedia
+668,The Lord of the Rings,10.0,1993,Ciencia Ficción
+669,The Lion King,6.3,2007,Terror
+670,Finding Nemo,2.8,2006,Acción
+671,The Lion King,3.4,1995,Comedia
+672,The Lord of the Rings,7.4,2016,Drama
+673,Inception,1.6,1988,Ciencia Ficción
+674,The Social Network,6.4,1984,Comedia
+675,Jurassic Park,6.0,1982,Comedia
+676,Finding Nemo,3.4,1990,Drama
+677,Forrest Gump,8.7,2007,Drama
+678,The Grand Budapest Hotel,6.4,1990,Comedia
+679,Avengers: Endgame,4.3,2010,Drama
+680,Parasite,7.9,1988,Acción
+681,Toy Story,1.0,1999,Terror
+682,Spider-Man: No Way Home,3.9,2018,Ciencia Ficción
+683,Toy Story,6.9,2007,Ciencia Ficción
+684,Interstellar,5.6,1992,Terror
+685,Forrest Gump,9.0,1987,Terror
+686,Fight Club,2.6,2018,Ciencia Ficción
+687,Interstellar,5.7,2014,Terror
+688,Toy Story,7.5,1985,Comedia
+689,Finding Nemo,7.9,1989,Acción
+690,Spider-Man: No Way Home,9.7,2023,Drama
+691,Jurassic Park,9.0,2008,Comedia
+692,Schindler's List,4.7,2007,Ciencia Ficción
+693,Fight Club,8.4,1996,Ciencia Ficción
+694,Avengers: Endgame,1.5,1989,Ciencia Ficción
+695,Inception,8.1,1980,Acción
+696,Star Wars,9.2,1994,Terror
+697,The Lord of the Rings,6.6,2003,Acción
+698,Forrest Gump,1.8,1997,Comedia
+699,The Silence of the Lambs,3.5,2004,Ciencia Ficción
+700,Avengers: Endgame,7.7,2003,Acción
+701,Mad Max: Fury Road,8.6,2019,Drama
+702,Pulp Fiction,3.3,2020,Drama
+703,The Grand Budapest Hotel,2.0,1993,Terror
+704,Titanic,1.0,2008,Comedia
+705,Pulp Fiction,3.0,2009,Comedia
+706,The Lion King,4.6,1995,Comedia
+707,Titanic,9.8,1994,Drama
+708,Forrest Gump,9.9,1982,Acción
+709,Fight Club,3.7,1997,Ciencia Ficción
+710,Fight Club,1.4,2012,Terror
+711,Whiplash,9.6,2022,Acción
+712,The Matrix,8.6,2001,Comedia
+713,Spider-Man: No Way Home,5.4,1980,Comedia
+714,Fight Club,9.3,1999,Terror
+715,Fight Club,4.7,1989,Acción
+716,Gladiator,2.6,1985,Comedia
+717,Parasite,4.7,2009,Comedia
+718,The Silence of the Lambs,4.7,2002,Acción
+719,Gladiator,3.9,2015,Drama
+720,The Lion King,5.1,2009,Comedia
+721,Gladiator,5.3,1998,Ciencia Ficción
+722,The Revenant,8.2,2004,Acción
+723,The Dark Knight,3.5,2002,Drama
+724,Mad Max: Fury Road,8.7,1994,Terror
+725,The Lord of the Rings,8.8,2023,Ciencia Ficción
+726,The Godfather,6.4,2014,Comedia
+727,The Dark Knight,3.9,1984,Ciencia Ficción
+728,The Revenant,4.2,1981,Terror
+729,Schindler's List,1.3,1980,Acción
+730,Whiplash,5.6,2000,Ciencia Ficción
+731,Mad Max: Fury Road,7.0,2005,Ciencia Ficción
+732,Star Wars,8.0,2022,Comedia
+733,Forrest Gump,1.2,1985,Acción
+734,Avengers: Endgame,4.2,2004,Acción
+735,Jurassic Park,4.7,1987,Terror
+736,Inception,1.7,2015,Terror
+737,Toy Story,5.6,2016,Terror
+738,Avengers: Endgame,8.3,1998,Drama
+739,The Grand Budapest Hotel,5.7,2017,Acción
+740,Mad Max: Fury Road,5.8,1992,Terror
+741,The Lord of the Rings,1.9,1982,Acción
+742,The Dark Knight,4.4,2022,Terror
+743,The Lion King,7.6,1999,Drama
+744,Star Wars,3.9,2006,Acción
+745,The Dark Knight,8.9,1994,Drama
+746,The Shawshank Redemption,4.2,2018,Drama
+747,The Godfather,8.6,2014,Terror
+748,The Matrix,7.3,1983,Ciencia Ficción
+749,The Lord of the Rings,1.1,1992,Comedia
+750,The Revenant,6.9,2008,Terror
+751,The Social Network,2.0,2011,Ciencia Ficción
+752,Braveheart,5.0,1987,Comedia
+753,The Shawshank Redemption,2.3,2016,Terror
+754,The Lion King,5.2,1995,Ciencia Ficción
+755,Fight Club,6.8,2011,Ciencia Ficción
+756,Finding Nemo,3.4,2000,Acción
+757,Pulp Fiction,6.6,2017,Comedia
+758,Interstellar,7.3,2006,Ciencia Ficción
+759,Inception,8.9,2005,Comedia
+760,Schindler's List,7.1,2021,Comedia
+761,The Lord of the Rings,1.6,1990,Drama
+762,The Shawshank Redemption,4.0,1995,Comedia
+763,Inception,6.6,2023,Ciencia Ficción
+764,The Godfather,1.9,1997,Acción
+765,Titanic,7.7,1996,Ciencia Ficción
+766,The Social Network,7.4,2001,Ciencia Ficción
+767,The Social Network,9.6,2023,Drama
+768,Toy Story,7.4,2002,Drama
+769,Schindler's List,6.1,1981,Terror
+770,Jurassic Park,8.3,1983,Terror
+771,The Lion King,5.6,1990,Comedia
+772,The Revenant,2.4,1998,Terror
+773,Coco,8.4,1988,Acción
+774,The Lord of the Rings,9.4,1982,Terror
+775,The Silence of the Lambs,4.8,1992,Terror
+776,Pulp Fiction,7.3,1988,Ciencia Ficción
+777,Schindler's List,6.9,2010,Ciencia Ficción
+778,Fight Club,4.7,2017,Drama
+779,The Lord of the Rings,6.3,1992,Terror
+780,Forrest Gump,6.9,1989,Drama
+781,Mad Max: Fury Road,3.8,2014,Drama
+782,The Social Network,2.5,2010,Drama
+783,Finding Nemo,5.5,2006,Drama
+784,Forrest Gump,4.8,1983,Terror
+785,The Matrix,6.1,2003,Comedia
+786,Coco,6.6,1984,Terror
+787,Inception,6.4,2001,Drama
+788,The Godfather,10.0,2004,Terror
+789,Django Unchained,5.0,1983,Comedia
+790,Pulp Fiction,7.6,2007,Acción
+791,The Dark Knight,4.4,2021,Drama
+792,Interstellar,9.7,2001,Comedia
+793,Spider-Man: No Way Home,5.0,2019,Acción
+794,The Lord of the Rings,10.0,2015,Drama
+795,Star Wars,1.1,2002,Terror
+796,The Shawshank Redemption,9.8,2010,Acción
+797,Spider-Man: No Way Home,8.2,2002,Ciencia Ficción
+798,Forrest Gump,5.6,1995,Ciencia Ficción
+799,Gladiator,9.3,1998,Acción
+800,Inception,8.4,2005,Terror
+801,The Social Network,7.2,1991,Drama
+802,Django Unchained,7.1,1980,Terror
+803,Forrest Gump,6.2,2012,Comedia
+804,The Revenant,1.8,2019,Acción
+805,Jurassic Park,8.3,2012,Terror
+806,The Lion King,3.3,1983,Comedia
+807,The Dark Knight,3.6,1982,Ciencia Ficción
+808,Star Wars,4.0,1986,Terror
+809,Braveheart,5.2,1985,Acción
+810,Parasite,2.7,1993,Ciencia Ficción
+811,Forrest Gump,8.4,1994,Acción
+812,Forrest Gump,7.4,2003,Terror
+813,The Grand Budapest Hotel,6.5,2022,Terror
+814,Braveheart,9.8,1994,Ciencia Ficción
+815,Coco,4.4,2020,Terror
+816,The Shawshank Redemption,9.9,2023,Drama
+817,Parasite,1.6,1993,Drama
+818,Coco,8.0,2021,Terror
+819,The Silence of the Lambs,5.7,2010,Ciencia Ficción
+820,Fight Club,7.5,1987,Terror
+821,Forrest Gump,1.2,2008,Acción
+822,Avengers: Endgame,5.4,2003,Drama
+823,Interstellar,1.7,1981,Terror
+824,Jurassic Park,1.9,2008,Comedia
+825,Django Unchained,6.6,1997,Acción
+826,Star Wars,5.0,2007,Ciencia Ficción
+827,The Revenant,4.6,1986,Drama
+828,Coco,6.2,2002,Ciencia Ficción
+829,Schindler's List,2.5,2022,Terror
+830,The Dark Knight,7.5,2000,Terror
+831,The Dark Knight,9.7,2005,Ciencia Ficción
+832,Inception,3.4,2010,Drama
+833,Coco,1.3,1982,Acción
+834,Whiplash,9.2,1989,Comedia
+835,The Lion King,2.8,1981,Ciencia Ficción
+836,Inception,5.8,1992,Ciencia Ficción
+837,The Godfather,5.8,1990,Acción
+838,Fight Club,9.5,2012,Comedia
+839,Schindler's List,9.3,2018,Comedia
+840,Jurassic Park,5.8,1998,Acción
+841,Spider-Man: No Way Home,4.4,2014,Acción
+842,Toy Story,3.5,1998,Terror
+843,The Revenant,4.3,1999,Ciencia Ficción
+844,The Godfather,3.9,2016,Comedia
+845,The Social Network,7.5,2017,Comedia
+846,Jurassic Park,5.0,1993,Comedia
+847,Mad Max: Fury Road,2.1,2005,Comedia
+848,Coco,8.9,1996,Drama
+849,Titanic,1.8,1983,Ciencia Ficción
+850,The Dark Knight,5.0,2007,Drama
+851,The Social Network,7.8,2005,Acción
+852,Django Unchained,9.2,1982,Comedia
+853,Star Wars,4.8,1987,Ciencia Ficción
+854,The Dark Knight,5.5,2003,Comedia
+855,Braveheart,5.4,2017,Drama
+856,Gladiator,4.5,2005,Drama
+857,Django Unchained,9.0,1998,Drama
+858,The Silence of the Lambs,2.0,2002,Ciencia Ficción
+859,Whiplash,9.1,2006,Comedia
+860,The Silence of the Lambs,3.1,1991,Comedia
+861,The Dark Knight,2.2,1987,Ciencia Ficción
+862,Django Unchained,9.2,1983,Ciencia Ficción
+863,The Silence of the Lambs,7.4,2023,Ciencia Ficción
+864,The Grand Budapest Hotel,4.0,1999,Ciencia Ficción
+865,Spider-Man: No Way Home,4.1,1997,Drama
+866,The Social Network,8.8,2007,Acción
+867,Star Wars,6.1,2020,Comedia
+868,Braveheart,5.4,2019,Acción
+869,Finding Nemo,9.9,2003,Acción
+870,Pulp Fiction,6.9,2012,Drama
+871,Titanic,4.5,2000,Comedia
+872,Titanic,7.2,1985,Terror
+873,Avengers: Endgame,1.7,2004,Drama
+874,The Grand Budapest Hotel,9.4,2017,Terror
+875,The Revenant,3.8,1992,Terror
+876,The Godfather,3.8,2002,Terror
+877,Mad Max: Fury Road,7.8,2005,Acción
+878,The Godfather,9.7,2002,Ciencia Ficción
+879,Jurassic Park,6.3,1990,Terror
+880,The Godfather,6.6,2021,Comedia
+881,Star Wars,8.6,2015,Ciencia Ficción
+882,Pulp Fiction,4.1,1996,Terror
+883,Spider-Man: No Way Home,1.3,2015,Comedia
+884,Coco,7.7,2004,Ciencia Ficción
+885,Parasite,6.7,2008,Comedia
+886,Coco,4.5,2016,Comedia
+887,Finding Nemo,3.0,1988,Drama
+888,The Godfather,8.7,1989,Ciencia Ficción
+889,The Grand Budapest Hotel,3.6,2011,Terror
+890,Avengers: Endgame,8.6,1990,Ciencia Ficción
+891,The Godfather,9.1,2013,Comedia
+892,Interstellar,6.1,2004,Acción
+893,Braveheart,5.8,1982,Terror
+894,Inception,1.3,1997,Comedia
+895,The Grand Budapest Hotel,9.0,2000,Drama
+896,Whiplash,8.1,1990,Comedia
+897,The Lion King,3.8,2003,Comedia
+898,Interstellar,6.0,2007,Comedia
+899,Gladiator,1.7,1990,Terror
+900,Braveheart,7.4,2007,Ciencia Ficción
+901,Finding Nemo,3.9,2023,Drama
+902,Interstellar,5.6,1983,Ciencia Ficción
+903,Braveheart,5.7,1980,Acción
+904,Jurassic Park,3.7,1990,Terror
+905,Fight Club,2.4,1995,Drama
+906,Finding Nemo,8.7,2015,Ciencia Ficción
+907,Pulp Fiction,1.4,1981,Comedia
+908,Titanic,3.1,1992,Ciencia Ficción
+909,Schindler's List,9.5,2019,Drama
+910,Titanic,4.1,2013,Drama
+911,Jurassic Park,2.2,2013,Acción
+912,The Godfather,6.1,1996,Comedia
+913,Gladiator,7.6,2021,Comedia
+914,Whiplash,7.0,2019,Acción
+915,Jurassic Park,1.4,1990,Ciencia Ficción
+916,Fight Club,3.5,1988,Terror
+917,The Social Network,7.8,1991,Comedia
+918,The Revenant,4.7,2022,Terror
+919,Interstellar,6.7,1989,Acción
+920,Inception,9.0,1986,Drama
+921,The Godfather,6.9,2009,Drama
+922,Whiplash,2.2,2002,Comedia
+923,Inception,9.8,1987,Comedia
+924,Django Unchained,3.3,1993,Ciencia Ficción
+925,Parasite,3.8,1989,Acción
+926,Whiplash,7.0,2010,Acción
+927,Django Unchained,9.6,1999,Terror
+928,The Social Network,7.1,2015,Acción
+929,Parasite,4.4,2009,Comedia
+930,Gladiator,6.1,1993,Acción
+931,The Lord of the Rings,7.3,1992,Comedia
+932,The Silence of the Lambs,2.4,2021,Comedia
+933,Spider-Man: No Way Home,9.9,1999,Comedia
+934,Fight Club,7.6,1985,Acción
+935,Jurassic Park,2.6,2008,Drama
+936,Coco,6.9,2005,Comedia
+937,Star Wars,4.1,2006,Ciencia Ficción
+938,The Revenant,6.9,2007,Ciencia Ficción
+939,The Lord of the Rings,9.6,1992,Terror
+940,Gladiator,1.3,2009,Acción
+941,Mad Max: Fury Road,7.7,1985,Comedia
+942,Coco,3.2,1994,Comedia
+943,Braveheart,5.0,1998,Comedia
+944,Mad Max: Fury Road,4.4,1990,Terror
+945,Whiplash,9.2,2018,Acción
+946,Interstellar,10.0,2013,Acción
+947,Fight Club,3.2,1991,Ciencia Ficción
+948,Gladiator,3.0,1994,Drama
+949,Forrest Gump,8.4,2023,Ciencia Ficción
+950,The Social Network,4.7,2014,Ciencia Ficción
+951,Parasite,3.0,2023,Comedia
+952,Interstellar,7.8,1992,Drama
+953,Gladiator,1.3,2015,Drama
+954,Interstellar,5.1,2011,Terror
+955,Star Wars,3.8,1991,Acción
+956,Parasite,5.1,2005,Acción
+957,Parasite,7.4,1996,Acción
+958,The Silence of the Lambs,1.5,2015,Terror
+959,The Matrix,3.5,2004,Ciencia Ficción
+960,The Revenant,5.5,1985,Acción
+961,Mad Max: Fury Road,3.0,2018,Comedia
+962,Fight Club,4.8,1987,Ciencia Ficción
+963,The Shawshank Redemption,1.4,1986,Drama
+964,Whiplash,9.5,2014,Terror
+965,Pulp Fiction,7.9,1989,Drama
+966,Forrest Gump,7.3,2010,Drama
+967,Gladiator,7.5,2015,Drama
+968,Jurassic Park,6.1,1980,Ciencia Ficción
+969,The Social Network,3.0,1992,Comedia
+970,Coco,3.4,1990,Comedia
+971,Star Wars,6.8,2005,Acción
+972,The Lion King,3.4,1987,Ciencia Ficción
+973,Star Wars,9.7,2016,Comedia
+974,Fight Club,6.6,2022,Terror
+975,Parasite,3.9,1982,Acción
+976,Coco,5.0,2009,Ciencia Ficción
+977,Spider-Man: No Way Home,3.6,2018,Terror
+978,The Social Network,4.2,2015,Terror
+979,Jurassic Park,6.8,2002,Ciencia Ficción
+980,Fight Club,9.4,1999,Terror
+981,Pulp Fiction,1.8,2016,Comedia
+982,Gladiator,1.9,2003,Ciencia Ficción
+983,Toy Story,8.6,2000,Drama
+984,Avengers: Endgame,2.7,2001,Drama
+985,Gladiator,7.2,1998,Terror
+986,Toy Story,5.6,2022,Drama
+987,Parasite,2.1,1982,Drama
+988,The Lion King,5.0,2020,Ciencia Ficción
+989,Pulp Fiction,9.4,2003,Comedia
+990,The Godfather,8.6,2009,Acción
+991,The Matrix,9.2,1992,Terror
+992,Forrest Gump,2.3,1998,Ciencia Ficción
+993,Pulp Fiction,6.0,2008,Acción
+994,The Revenant,9.4,1992,Ciencia Ficción
+995,Fight Club,3.2,2007,Terror
+996,The Dark Knight,9.4,1997,Comedia
+997,Braveheart,8.5,2010,Acción
+998,Braveheart,3.2,2015,Terror
+999,The Dark Knight,9.4,1995,Drama
+1000,Finding Nemo,7.8,1998,Acción
+1001,The Lord of the Rings,6.4,2009,Ciencia Ficción
+1002,Jurassic Park,7.4,2005,Acción
+1003,Jurassic Park,4.8,2007,Terror
+1004,The Lion King,8.8,2001,Comedia
+1005,Titanic,6.8,2009,Ciencia Ficción
+1006,The Social Network,9.8,2013,Acción
+1007,Interstellar,2.5,2021,Comedia
+1008,The Lord of the Rings,8.1,2022,Terror
+1009,Spider-Man: No Way Home,7.1,1994,Drama
+1010,Avengers: Endgame,9.7,2004,Comedia
+1011,The Social Network,9.5,1994,Acción
+1012,Spider-Man: No Way Home,9.0,2018,Ciencia Ficción
+1013,Pulp Fiction,1.2,1989,Acción
+1014,Mad Max: Fury Road,2.8,2016,Acción
+1015,Schindler's List,2.9,1991,Terror
+1016,The Grand Budapest Hotel,3.4,1982,Acción
+1017,Whiplash,4.7,2017,Acción
+1018,Interstellar,6.4,2008,Comedia
+1019,The Matrix,9.9,1999,Comedia
+1020,Mad Max: Fury Road,7.4,2006,Terror
+1021,The Dark Knight,5.3,2017,Acción
+1022,The Godfather,2.7,2002,Terror
+1023,Avengers: Endgame,9.2,1999,Drama
+1024,The Revenant,3.2,1999,Drama
+1025,The Grand Budapest Hotel,2.7,2008,Comedia
+1026,The Lord of the Rings,6.6,1997,Acción
+1027,Toy Story,1.6,1993,Drama
+1028,Braveheart,3.2,1988,Terror
+1029,Toy Story,2.6,2010,Drama
+1030,Finding Nemo,7.9,1998,Drama
+1031,Interstellar,3.7,2020,Drama
+1032,The Lion King,4.2,1994,Terror
+1033,The Dark Knight,1.6,2010,Ciencia Ficción
+1034,The Shawshank Redemption,1.4,2017,Terror
+1035,Django Unchained,10.0,2003,Acción
+1036,Coco,3.2,1998,Drama
+1037,Gladiator,1.1,1993,Acción
+1038,The Lion King,5.8,2003,Terror
+1039,Fight Club,7.0,2013,Terror
+1040,Toy Story,1.6,1988,Terror
+1041,Jurassic Park,3.1,1995,Acción
+1042,The Social Network,9.6,1999,Drama
+1043,The Lord of the Rings,7.6,1980,Terror
+1044,The Godfather,4.7,1995,Comedia
+1045,The Shawshank Redemption,5.3,1986,Ciencia Ficción
+1046,The Lord of the Rings,6.7,1992,Acción
+1047,The Dark Knight,1.9,1992,Ciencia Ficción
+1048,The Silence of the Lambs,8.3,1999,Acción
+1049,Coco,2.8,2013,Terror
+1050,Finding Nemo,8.0,2011,Drama
+1051,The Silence of the Lambs,7.5,2022,Comedia
+1052,The Revenant,6.7,2018,Acción
+1053,The Lion King,5.4,2014,Comedia
+1054,Braveheart,4.3,2003,Acción
+1055,Finding Nemo,7.5,1980,Ciencia Ficción
+1056,The Lion King,3.9,1997,Comedia
+1057,The Social Network,8.0,2019,Ciencia Ficción
+1058,Toy Story,5.9,1991,Drama
+1059,The Godfather,8.5,2008,Comedia
+1060,Fight Club,9.4,2002,Terror
+1061,Gladiator,8.4,1988,Comedia
+1062,The Social Network,7.4,1980,Comedia
+1063,Braveheart,3.1,2005,Comedia
+1064,The Silence of the Lambs,9.0,1985,Terror
+1065,Inception,7.9,2014,Drama
+1066,Star Wars,8.5,1991,Ciencia Ficción
+1067,Toy Story,8.9,2007,Ciencia Ficción
+1068,Whiplash,9.5,1996,Comedia
+1069,The Matrix,3.8,2022,Drama
+1070,Gladiator,5.2,2006,Terror
+1071,Avengers: Endgame,9.5,2015,Comedia
+1072,Jurassic Park,9.3,1982,Comedia
+1073,The Silence of the Lambs,4.1,1999,Terror
+1074,The Dark Knight,2.9,1989,Ciencia Ficción
+1075,Whiplash,8.2,2006,Comedia
+1076,Mad Max: Fury Road,9.7,2014,Drama
+1077,Jurassic Park,6.2,1992,Terror
+1078,Django Unchained,5.9,1991,Drama
+1079,The Godfather,9.9,2009,Drama
+1080,The Shawshank Redemption,1.3,1993,Acción
+1081,The Shawshank Redemption,4.0,2023,Terror
+1082,Inception,7.0,2007,Drama
+1083,Django Unchained,5.4,2016,Ciencia Ficción
+1084,Schindler's List,6.2,2018,Acción
+1085,The Lord of the Rings,3.0,2021,Terror
+1086,Avengers: Endgame,9.3,1984,Terror
+1087,Mad Max: Fury Road,7.6,1997,Acción
+1088,Titanic,6.2,2011,Acción
+1089,Parasite,9.5,2006,Terror
+1090,Fight Club,5.9,2009,Acción
+1091,The Shawshank Redemption,5.1,2020,Acción
+1092,The Godfather,3.9,2022,Acción
+1093,The Shawshank Redemption,7.1,1985,Acción
+1094,Forrest Gump,3.4,1983,Comedia
+1095,The Shawshank Redemption,8.8,2015,Acción
+1096,Django Unchained,2.1,1981,Comedia
+1097,Parasite,6.8,1986,Comedia
+1098,Star Wars,3.4,2014,Ciencia Ficción
+1099,The Grand Budapest Hotel,6.5,2008,Comedia
+1100,Fight Club,3.5,2002,Comedia
+1101,Jurassic Park,8.7,2000,Drama
+1102,The Lord of the Rings,4.8,1993,Ciencia Ficción
+1103,Toy Story,6.8,2016,Drama
+1104,Toy Story,7.6,1999,Drama
+1105,Mad Max: Fury Road,3.7,1988,Terror
+1106,The Silence of the Lambs,5.5,1989,Terror
+1107,Spider-Man: No Way Home,1.7,2009,Drama
+1108,Finding Nemo,2.5,1986,Terror
+1109,Avengers: Endgame,3.7,2016,Drama
+1110,Braveheart,6.6,2011,Drama
+1111,The Matrix,4.2,1994,Comedia
+1112,Jurassic Park,6.8,2001,Acción
+1113,The Grand Budapest Hotel,2.8,2003,Drama
+1114,Toy Story,4.0,1981,Ciencia Ficción
+1115,Parasite,9.8,2003,Terror
+1116,The Dark Knight,9.5,2018,Comedia
+1117,Whiplash,7.6,1993,Ciencia Ficción
+1118,Forrest Gump,5.9,2006,Acción
+1119,Star Wars,1.8,2003,Ciencia Ficción
+1120,The Lord of the Rings,1.1,1993,Acción
+1121,Gladiator,1.2,2014,Ciencia Ficción
+1122,Spider-Man: No Way Home,7.4,2022,Drama
+1123,Coco,3.7,1988,Comedia
+1124,Toy Story,3.1,1981,Drama
+1125,Gladiator,7.4,2021,Drama
+1126,Forrest Gump,1.5,1986,Terror
+1127,Django Unchained,8.2,1991,Acción
+1128,Finding Nemo,5.5,1986,Terror
+1129,Star Wars,5.2,2001,Terror
+1130,Coco,5.9,1993,Acción
+1131,Inception,7.6,1983,Ciencia Ficción
+1132,Avengers: Endgame,1.6,2013,Comedia
+1133,The Shawshank Redemption,3.8,2012,Terror
+1134,Titanic,9.9,2000,Comedia
+1135,Parasite,6.8,1993,Acción
+1136,Pulp Fiction,8.4,2020,Acción
+1137,The Lord of the Rings,9.7,1996,Comedia
+1138,Mad Max: Fury Road,7.2,2013,Terror
+1139,Braveheart,5.8,2015,Drama
+1140,Star Wars,1.2,2003,Drama
+1141,Schindler's List,5.9,1991,Ciencia Ficción
+1142,Finding Nemo,6.8,2022,Terror
+1143,The Revenant,7.6,2002,Terror
+1144,The Silence of the Lambs,3.8,2016,Terror
+1145,Titanic,8.8,1986,Terror
+1146,The Grand Budapest Hotel,1.6,2003,Ciencia Ficción
+1147,Pulp Fiction,3.3,2021,Terror
+1148,Star Wars,9.0,1984,Terror
+1149,Spider-Man: No Way Home,6.1,1986,Ciencia Ficción
+1150,The Lord of the Rings,7.1,2008,Terror
+1151,Braveheart,8.3,1989,Comedia
+1152,Spider-Man: No Way Home,8.0,2002,Terror
+1153,Mad Max: Fury Road,5.0,1985,Ciencia Ficción
+1154,Braveheart,4.8,2002,Drama
+1155,The Shawshank Redemption,2.0,2017,Terror
+1156,Interstellar,2.8,2022,Comedia
+1157,The Shawshank Redemption,1.8,2016,Acción
+1158,The Silence of the Lambs,9.7,2022,Drama
+1159,Titanic,7.0,1985,Ciencia Ficción
+1160,Django Unchained,9.4,1984,Terror
+1161,The Shawshank Redemption,9.0,2002,Drama
+1162,Parasite,9.7,2011,Acción
+1163,The Grand Budapest Hotel,6.1,2023,Comedia
+1164,Star Wars,2.7,2008,Acción
+1165,Jurassic Park,9.6,1999,Comedia
+1166,Star Wars,2.8,1990,Ciencia Ficción
+1167,The Matrix,4.5,1989,Ciencia Ficción
+1168,Gladiator,1.3,2019,Ciencia Ficción
+1169,Star Wars,7.3,1991,Terror
+1170,Whiplash,4.3,1991,Acción
+1171,Parasite,8.0,2009,Acción
+1172,The Lord of the Rings,5.0,2002,Drama
+1173,The Grand Budapest Hotel,7.9,2023,Comedia
+1174,The Lion King,4.5,2022,Ciencia Ficción
+1175,The Shawshank Redemption,2.3,1998,Acción
+1176,Mad Max: Fury Road,2.3,1985,Comedia
+1177,Avengers: Endgame,9.2,1981,Terror
+1178,Coco,6.0,1996,Terror
+1179,The Grand Budapest Hotel,6.9,1996,Comedia
+1180,Toy Story,6.2,2014,Comedia
+1181,Spider-Man: No Way Home,7.1,1982,Acción
+1182,Forrest Gump,6.5,1981,Drama
+1183,Toy Story,7.3,2020,Terror
+1184,Schindler's List,5.8,2017,Terror
+1185,Interstellar,6.4,2011,Comedia
+1186,Toy Story,3.9,2006,Ciencia Ficción
+1187,The Silence of the Lambs,6.2,1991,Comedia
+1188,Forrest Gump,6.6,1993,Ciencia Ficción
+1189,Fight Club,4.6,1993,Terror
+1190,Coco,7.2,1982,Ciencia Ficción
+1191,The Grand Budapest Hotel,8.3,2019,Terror
+1192,Star Wars,8.1,2015,Drama
+1193,The Silence of the Lambs,6.4,2011,Comedia
+1194,Toy Story,6.4,1999,Terror
+1195,The Matrix,7.3,2023,Comedia
+1196,Finding Nemo,5.4,1993,Ciencia Ficción
+1197,Titanic,6.3,2014,Terror
+1198,The Dark Knight,4.5,1983,Comedia
+1199,Parasite,6.8,2014,Terror
+1200,Forrest Gump,3.6,1988,Ciencia Ficción
+1201,Gladiator,9.9,1991,Terror
+1202,Titanic,7.1,1981,Acción
+1203,Braveheart,3.1,2021,Comedia
+1204,Django Unchained,2.5,2012,Ciencia Ficción
+1205,Finding Nemo,5.5,2013,Drama
+1206,Coco,1.5,2023,Terror
+1207,Gladiator,5.3,2015,Drama
+1208,Titanic,9.3,2016,Comedia
+1209,The Revenant,3.5,1982,Ciencia Ficción
+1210,Inception,9.8,1983,Acción
+1211,Toy Story,5.2,2018,Terror
+1212,Avengers: Endgame,6.2,2022,Comedia
+1213,Inception,3.0,1983,Acción
+1214,Spider-Man: No Way Home,7.0,2007,Terror
+1215,The Social Network,6.6,2014,Ciencia Ficción
+1216,The Dark Knight,4.3,1993,Comedia
+1217,The Grand Budapest Hotel,1.9,2021,Terror
+1218,Django Unchained,7.8,2017,Drama
+1219,Forrest Gump,3.8,1986,Comedia
+1220,Django Unchained,7.2,2007,Comedia
+1221,Gladiator,5.6,1989,Comedia
+1222,Pulp Fiction,6.2,2022,Comedia
+1223,Spider-Man: No Way Home,5.9,2009,Acción
+1224,The Shawshank Redemption,4.9,2008,Ciencia Ficción
+1225,Jurassic Park,2.2,1982,Comedia
+1226,The Revenant,2.7,1988,Terror
+1227,Parasite,1.9,2021,Comedia
+1228,Spider-Man: No Way Home,7.1,1984,Terror
+1229,Avengers: Endgame,9.4,1988,Drama
+1230,Gladiator,1.5,1981,Ciencia Ficción
+1231,Inception,5.5,2019,Drama
+1232,Spider-Man: No Way Home,1.5,1992,Comedia
+1233,Pulp Fiction,6.5,1981,Acción
+1234,Whiplash,8.2,1985,Drama
+1235,Star Wars,7.1,2000,Comedia
+1236,Mad Max: Fury Road,9.5,1990,Drama
+1237,The Shawshank Redemption,6.5,2006,Comedia
+1238,Finding Nemo,4.4,1985,Terror
+1239,The Shawshank Redemption,5.7,2014,Drama
+1240,Whiplash,5.2,1991,Drama
+1241,Coco,5.4,2014,Comedia
+1242,Pulp Fiction,8.6,1988,Drama
+1243,Fight Club,9.2,2022,Terror
+1244,The Matrix,3.7,2004,Ciencia Ficción
+1245,The Lord of the Rings,3.6,1985,Ciencia Ficción
+1246,The Revenant,9.3,1984,Drama
+1247,Jurassic Park,3.6,1989,Ciencia Ficción
+1248,Spider-Man: No Way Home,9.9,1999,Ciencia Ficción
+1249,The Social Network,6.5,1995,Terror
+1250,Braveheart,7.0,1983,Ciencia Ficción
+1251,Finding Nemo,4.6,1986,Ciencia Ficción
+1252,Spider-Man: No Way Home,5.4,2005,Terror
+1253,The Dark Knight,9.6,1990,Terror
+1254,Finding Nemo,6.1,1997,Terror
+1255,Schindler's List,9.4,1994,Terror
+1256,The Dark Knight,8.3,2011,Ciencia Ficción
+1257,The Lord of the Rings,7.3,1995,Terror
+1258,Titanic,4.5,2007,Drama
+1259,Coco,6.4,1997,Drama
+1260,Schindler's List,3.7,2001,Drama
+1261,Jurassic Park,3.4,1984,Ciencia Ficción
+1262,Titanic,5.3,2001,Acción
+1263,The Social Network,7.1,1997,Terror
+1264,Schindler's List,6.7,2021,Drama
+1265,The Dark Knight,1.4,1994,Terror
+1266,Inception,7.4,1983,Acción
+1267,Spider-Man: No Way Home,4.4,2023,Comedia
+1268,Titanic,9.2,2000,Acción
+1269,Avengers: Endgame,3.0,1993,Ciencia Ficción
+1270,The Revenant,6.2,2022,Acción
+1271,Finding Nemo,4.5,2007,Terror
+1272,Mad Max: Fury Road,1.3,2000,Terror
+1273,The Shawshank Redemption,5.9,1989,Comedia
+1274,Pulp Fiction,3.8,2012,Drama
+1275,The Social Network,1.4,2018,Acción
+1276,The Social Network,7.6,1988,Acción
+1277,The Social Network,8.2,2015,Comedia
+1278,Titanic,8.7,2003,Comedia
+1279,Coco,2.1,1999,Drama
+1280,Braveheart,2.8,2016,Comedia
+1281,The Lord of the Rings,3.2,2003,Drama
+1282,The Silence of the Lambs,1.9,1980,Comedia
+1283,The Social Network,5.4,2020,Terror
+1284,Toy Story,8.4,1984,Terror
+1285,Whiplash,5.9,2004,Ciencia Ficción
+1286,Fight Club,2.0,2020,Ciencia Ficción
+1287,Coco,4.0,1989,Ciencia Ficción
+1288,Toy Story,4.0,2018,Comedia
+1289,Inception,2.5,1982,Terror
+1290,Forrest Gump,6.0,2005,Acción
+1291,The Godfather,7.8,2019,Terror
+1292,Toy Story,2.5,2022,Ciencia Ficción
+1293,The Dark Knight,5.1,2011,Comedia
+1294,Toy Story,2.4,2007,Ciencia Ficción
+1295,Braveheart,8.8,1981,Acción
+1296,The Godfather,5.5,1992,Drama
+1297,The Godfather,4.7,2013,Terror
+1298,Jurassic Park,6.6,1989,Ciencia Ficción
+1299,Parasite,10.0,2011,Terror
+1300,The Matrix,9.6,2010,Terror
+1301,Finding Nemo,6.1,2001,Ciencia Ficción
+1302,The Matrix,4.4,2022,Acción
+1303,Spider-Man: No Way Home,9.7,2000,Acción
+1304,Finding Nemo,4.7,1984,Acción
+1305,The Matrix,8.4,1985,Comedia
+1306,Parasite,2.1,2019,Ciencia Ficción
+1307,The Godfather,4.9,1992,Comedia
+1308,Parasite,8.6,2007,Acción
+1309,Schindler's List,4.2,1998,Comedia
+1310,Mad Max: Fury Road,7.6,1998,Drama
+1311,Avengers: Endgame,6.1,1990,Comedia
+1312,Star Wars,1.1,1985,Acción
+1313,Toy Story,9.1,1990,Drama
+1314,The Matrix,5.0,2010,Acción
+1315,Pulp Fiction,9.9,1983,Drama
+1316,The Dark Knight,8.9,2009,Drama
+1317,Inception,5.8,1985,Ciencia Ficción
+1318,Toy Story,5.9,1987,Acción
+1319,Spider-Man: No Way Home,1.6,1987,Comedia
+1320,Spider-Man: No Way Home,1.9,1999,Terror
+1321,Braveheart,6.7,2009,Drama
+1322,Fight Club,2.6,2016,Comedia
+1323,Jurassic Park,3.9,2013,Terror
+1324,Titanic,3.5,2011,Drama
+1325,Gladiator,4.7,1988,Comedia
+1326,Fight Club,7.4,2010,Terror
+1327,Toy Story,9.3,1999,Comedia
+1328,The Silence of the Lambs,9.4,2012,Ciencia Ficción
+1329,Parasite,8.2,1989,Acción
+1330,The Matrix,9.4,1988,Drama
+1331,Finding Nemo,6.4,2018,Comedia
+1332,The Lion King,1.2,1990,Acción
+1333,Spider-Man: No Way Home,9.1,2002,Acción
+1334,Pulp Fiction,2.1,2019,Terror
+1335,Schindler's List,7.4,2006,Drama
+1336,The Silence of the Lambs,9.5,1988,Ciencia Ficción
+1337,The Godfather,7.0,1993,Acción
+1338,Gladiator,1.9,2014,Ciencia Ficción
+1339,Braveheart,2.4,2008,Terror
+1340,Django Unchained,6.2,1988,Terror
+1341,Finding Nemo,4.9,1983,Drama
+1342,Fight Club,8.6,1995,Terror
+1343,The Grand Budapest Hotel,2.9,1989,Ciencia Ficción
+1344,Avengers: Endgame,2.2,2001,Ciencia Ficción
+1345,Jurassic Park,3.7,1994,Drama
+1346,Schindler's List,4.5,2011,Terror
+1347,Inception,7.6,1980,Acción
+1348,Toy Story,6.8,1983,Drama
+1349,Finding Nemo,5.1,1998,Terror
+1350,The Social Network,5.9,1999,Terror
+1351,Parasite,1.6,1999,Comedia
+1352,Pulp Fiction,8.3,2013,Drama
+1353,The Lion King,7.0,2009,Acción
+1354,Gladiator,7.2,2002,Comedia
+1355,The Lion King,9.6,2006,Terror
+1356,Star Wars,2.6,1995,Drama
+1357,Finding Nemo,2.3,1991,Acción
+1358,Inception,3.2,1988,Terror
+1359,The Godfather,9.0,2011,Terror
+1360,The Social Network,5.7,2008,Ciencia Ficción
+1361,The Dark Knight,5.2,1993,Terror
+1362,Schindler's List,6.8,1996,Comedia
+1363,Interstellar,3.5,2003,Acción
+1364,The Godfather,2.2,2006,Terror
+1365,Forrest Gump,8.3,1989,Ciencia Ficción
+1366,Avengers: Endgame,9.9,2010,Terror
+1367,The Matrix,6.7,1993,Terror
+1368,The Dark Knight,7.5,1982,Drama
+1369,Avengers: Endgame,6.3,1987,Ciencia Ficción
+1370,The Shawshank Redemption,4.5,1982,Terror
+1371,The Shawshank Redemption,7.9,2023,Terror
+1372,Mad Max: Fury Road,4.0,2021,Drama
+1373,Fight Club,9.2,2017,Ciencia Ficción
+1374,The Matrix,9.0,2001,Ciencia Ficción
+1375,The Grand Budapest Hotel,9.9,2008,Terror
+1376,The Lion King,4.3,2013,Acción
+1377,Whiplash,1.1,2001,Ciencia Ficción
+1378,Inception,2.4,2005,Comedia
+1379,Fight Club,5.1,1985,Drama
+1380,Pulp Fiction,7.7,1988,Comedia
+1381,Jurassic Park,9.1,2014,Acción
+1382,Whiplash,6.0,2002,Terror
+1383,Avengers: Endgame,4.3,1989,Drama
+1384,Finding Nemo,10.0,2008,Acción
+1385,The Revenant,5.9,1985,Comedia
+1386,Finding Nemo,8.7,1994,Acción
+1387,Jurassic Park,2.9,2014,Comedia
+1388,The Godfather,8.2,2015,Ciencia Ficción
+1389,Gladiator,2.8,1988,Acción
+1390,Whiplash,1.2,2015,Comedia
+1391,The Shawshank Redemption,1.8,1998,Ciencia Ficción
+1392,Inception,6.0,2017,Acción
+1393,Pulp Fiction,7.2,2021,Acción
+1394,The Grand Budapest Hotel,5.0,2004,Acción
+1395,The Lord of the Rings,5.9,2010,Acción
+1396,Whiplash,5.9,1986,Ciencia Ficción
+1397,The Lion King,9.4,1997,Acción
+1398,Coco,6.5,2019,Ciencia Ficción
+1399,Django Unchained,1.0,2002,Terror
+1400,The Lord of the Rings,1.3,2005,Comedia
+1401,Schindler's List,5.6,1994,Comedia
+1402,Gladiator,9.7,1981,Ciencia Ficción
+1403,Inception,5.4,2013,Ciencia Ficción
+1404,Fight Club,3.6,2015,Acción
+1405,Interstellar,3.9,2022,Drama
+1406,The Silence of the Lambs,5.8,1999,Comedia
+1407,The Matrix,2.9,2013,Comedia
+1408,Star Wars,9.8,1994,Terror
+1409,Forrest Gump,1.4,2017,Acción
+1410,The Dark Knight,6.2,2014,Drama
+1411,The Grand Budapest Hotel,4.8,2020,Terror
+1412,The Godfather,5.2,2009,Ciencia Ficción
+1413,Mad Max: Fury Road,7.7,2013,Ciencia Ficción
+1414,The Social Network,8.3,2010,Acción
+1415,Whiplash,2.2,1989,Terror
+1416,Interstellar,5.7,2009,Terror
+1417,Fight Club,2.9,2018,Drama
+1418,The Social Network,5.5,2009,Comedia
+1419,The Social Network,8.0,1991,Drama
+1420,Fight Club,3.3,2007,Drama
+1421,Whiplash,2.6,1994,Terror
+1422,Interstellar,7.3,1995,Acción
+1423,Star Wars,9.0,2006,Drama
+1424,The Shawshank Redemption,9.8,2001,Acción
+1425,The Grand Budapest Hotel,4.4,2010,Drama
+1426,Django Unchained,7.7,1999,Drama
+1427,Titanic,9.8,1986,Comedia
+1428,Forrest Gump,2.5,2022,Terror
+1429,The Shawshank Redemption,6.7,2004,Drama
+1430,Avengers: Endgame,2.6,2017,Ciencia Ficción
+1431,Titanic,7.2,1984,Ciencia Ficción
+1432,The Shawshank Redemption,7.6,2013,Comedia
+1433,Interstellar,9.6,1980,Terror
+1434,The Godfather,8.6,1988,Drama
+1435,Django Unchained,4.6,1994,Acción
+1436,Django Unchained,4.2,1980,Comedia
+1437,The Lord of the Rings,2.1,1992,Comedia
+1438,Whiplash,3.5,1994,Acción
+1439,The Matrix,2.2,1997,Terror
+1440,Toy Story,7.0,2004,Acción
+1441,Interstellar,9.6,2015,Ciencia Ficción
+1442,The Lion King,3.7,2019,Terror
+1443,Toy Story,2.8,1991,Ciencia Ficción
+1444,The Social Network,7.2,2004,Terror
+1445,Avengers: Endgame,6.9,2013,Acción
+1446,Mad Max: Fury Road,8.3,2009,Acción
+1447,Toy Story,4.3,1994,Acción
+1448,The Shawshank Redemption,2.2,1983,Acción
+1449,The Lord of the Rings,1.2,1990,Terror
+1450,Fight Club,9.4,2006,Acción
+1451,Star Wars,5.4,1996,Comedia
+1452,The Social Network,1.4,2014,Comedia
+1453,Avengers: Endgame,7.4,2000,Comedia
+1454,Finding Nemo,7.8,2017,Terror
+1455,Avengers: Endgame,3.4,1989,Acción
+1456,The Revenant,1.7,2020,Acción
+1457,The Revenant,5.2,2017,Drama
+1458,The Grand Budapest Hotel,7.3,1995,Acción
+1459,Coco,9.0,1989,Terror
+1460,Fight Club,8.1,1983,Terror
+1461,Forrest Gump,3.4,2003,Terror
+1462,Titanic,2.0,2013,Terror
+1463,Avengers: Endgame,3.0,1992,Terror
+1464,Coco,2.1,1984,Comedia
+1465,Coco,6.9,2015,Ciencia Ficción
+1466,The Shawshank Redemption,4.1,1985,Drama
+1467,Toy Story,2.5,1985,Acción
+1468,The Matrix,3.1,1980,Drama
+1469,The Lion King,8.5,1982,Drama
+1470,Django Unchained,3.9,2006,Comedia
+1471,Pulp Fiction,3.3,2005,Acción
+1472,The Revenant,1.8,1988,Terror
+1473,The Lord of the Rings,4.4,2017,Ciencia Ficción
+1474,The Social Network,3.8,1987,Drama
+1475,The Lion King,5.0,2010,Acción
+1476,Titanic,2.3,1996,Acción
+1477,Whiplash,3.0,1986,Acción
+1478,Titanic,1.1,1983,Terror
+1479,Titanic,6.7,1992,Ciencia Ficción
+1480,Avengers: Endgame,3.3,1980,Ciencia Ficción
+1481,Finding Nemo,3.3,2017,Acción
+1482,The Godfather,5.1,1980,Drama
+1483,Gladiator,7.8,1986,Acción
+1484,Avengers: Endgame,3.7,1984,Comedia
+1485,Avengers: Endgame,1.4,1997,Drama
+1486,The Godfather,3.0,1997,Drama
+1487,Fight Club,7.3,2021,Drama
+1488,Jurassic Park,1.1,1983,Comedia
+1489,The Matrix,2.7,1980,Acción
+1490,Star Wars,2.4,2008,Drama
+1491,The Lion King,6.1,1999,Ciencia Ficción
+1492,Avengers: Endgame,5.2,1990,Ciencia Ficción
+1493,Braveheart,7.2,2019,Comedia
+1494,Interstellar,4.2,2009,Acción
+1495,Jurassic Park,3.0,2011,Drama
+1496,Django Unchained,6.7,2016,Ciencia Ficción
+1497,The Lord of the Rings,1.1,1980,Acción
+1498,Mad Max: Fury Road,7.0,2000,Comedia
+1499,Django Unchained,6.3,2013,Terror
+1500,Mad Max: Fury Road,3.8,2009,Ciencia Ficción
